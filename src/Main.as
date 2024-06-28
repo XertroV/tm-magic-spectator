@@ -1,6 +1,6 @@
 const string PluginName = Meta::ExecutingPlugin().Name;
-const string MenuIconColor = "\\$f5d";
-const string PluginIcon = Icons::Cogs;
+const string MenuIconColor = "\\$5fa";
+const string PluginIcon =  Icons::Magic + Icons::Binoculars;
 const string MenuTitle = MenuIconColor + PluginIcon + "\\$z " + PluginName;
 
 int f_Nvg_ExoRegular = nvg::LoadFont("Fonts/Exo-Regular.ttf", true, true);
