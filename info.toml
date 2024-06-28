@@ -1,0 +1,10 @@
+[meta]
+name     = "Magic Spectate"
+author   = "XertroV"
+category = "Race"
+version  = "1.0.0"
+
+[script]
+#__DEFINES__
+dependencies = ["MLHook", "VehicleState"]
+optional_dependencies = ["ghosts-pp"]
